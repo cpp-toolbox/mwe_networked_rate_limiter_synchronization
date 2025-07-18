@@ -1,0 +1,12 @@
+[submodule "client/scripts"]
+	path = client/scripts
+	url = git@github.com:cpp-toolbox/scripts.git
+[submodule "client/src/utility/limited_vector"]
+	path = client/src/utility/limited_vector
+	url = git@github.com:cpp-toolbox/limited_vector.git
+[submodule "client/src/networking/packet_data"]
+	path = client/src/networking/packet_data
+	url = git@github.com:cpp-toolbox/packet_data.git
+[submodule "client/src/utility/logger"]
+	path = client/src/utility/logger
+	url = git@github.com:cpp-toolbox/logger.git
