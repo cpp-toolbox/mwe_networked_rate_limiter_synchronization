@@ -1,4 +1,8 @@
 packets -> ../client/src/networking/packets/
+packets -> ../server/src/networking/packets/
 
 packet_types -> ../client/src/networking/packet_types/
+packet_types -> ../server/src/networking/packet_types/
 
+sound_types -> ../client/src/sound/sound_types
+sound_types -> ../server/src/sound/sound_types

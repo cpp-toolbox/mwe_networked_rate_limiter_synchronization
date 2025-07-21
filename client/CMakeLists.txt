@@ -21,5 +21,18 @@ add_executable(${PROJECT_NAME} ${SOURCES})
 # Automatically generated from conan install
 
 # Automatically generated from conan install
+
+# Automatically generated from conan install
+
+# Automatically generated from conan install
+
+# Automatically generated from conan install
+
+# Automatically generated from conan install
+
+# Automatically generated from conan install
 find_package(enet)
-target_link_libraries(${PROJECT_NAME} enet::enet)
+find_package(OpenAL)
+find_package(SndFile)
+find_package(fmt)
+target_link_libraries(${PROJECT_NAME} enet::enet OpenAL::OpenAL SndFile::sndfile fmt::fmt)

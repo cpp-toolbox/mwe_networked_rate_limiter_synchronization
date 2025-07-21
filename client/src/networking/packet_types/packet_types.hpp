@@ -5,8 +5,7 @@
 
 enum class PacketType : uint8_t {
   // server to client
-  MOUSE_UPDATE,
-  GAME_UPDATE,
+  INPUT_UPDATE,
   SOUND_UPDATE,
 };
 

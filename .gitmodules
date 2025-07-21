@@ -10,3 +10,60 @@
 [submodule "client/src/utility/logger"]
 	path = client/src/utility/logger
 	url = git@github.com:cpp-toolbox/logger.git
+[submodule "client/src/networking/client_packet_network"]
+	path = client/src/networking/client_packet_network
+	url = git@github.com:cpp-toolbox/client_packet_network.git
+[submodule "client/src/networking/client_networking"]
+	path = client/src/networking/client_networking
+	url = git@github.com:cpp-toolbox/client_networking.git
+[submodule "client/src/networking/packet_handler"]
+	path = client/src/networking/packet_handler
+	url = git@github.com:cpp-toolbox/packet_handler.git
+[submodule "client/src/utility/fixed_frequency_loop"]
+	path = client/src/utility/fixed_frequency_loop
+	url = git@github.com:cpp-toolbox/fixed_frequency_loop.git
+[submodule "client/src/utility/stopwatch"]
+	path = client/src/utility/stopwatch
+	url = git@github.com:cpp-toolbox/stopwatch.git
+[submodule "client/src/sound/sound_system"]
+	path = client/src/sound/sound_system
+	url = git@github.com:cpp-toolbox/sound_system.git
+[submodule "client/src/utility/unique_id_generator"]
+	path = client/src/utility/unique_id_generator
+	url = git@github.com:cpp-toolbox/unique_id_generator.git
+[submodule "client/src/utility/rate_limiter"]
+	path = client/src/utility/rate_limiter
+	url = git@github.com:cpp-toolbox/rate_limiter.git
+[submodule "client/src/utility/timer"]
+	path = client/src/utility/timer
+	url = git@github.com:cpp-toolbox/timer.git
+[submodule "server/scripts"]
+	path = server/scripts
+	url = git@github.com:cpp-toolbox/scripts.git
+[submodule "server/src/utility/fixed_frequency_loop"]
+	path = server/src/utility/fixed_frequency_loop
+	url = git@github.com:cpp-toolbox/fixed_frequency_loop.git
+[submodule "server/src/utility/stopwatch"]
+	path = server/src/utility/stopwatch
+	url = git@github.com:cpp-toolbox/stopwatch.git
+[submodule "server/src/networking/server_packet_network"]
+	path = server/src/networking/server_packet_network
+	url = git@github.com:cpp-toolbox/server_packet_network.git
+[submodule "server/src/networking/server_networking"]
+	path = server/src/networking/server_networking
+	url = git@github.com:cpp-toolbox/server_networking.git
+[submodule "server/src/networking/packet_handler"]
+	path = server/src/networking/packet_handler
+	url = git@github.com:cpp-toolbox/packet_handler.git
+[submodule "server/src/networking/packet_data"]
+	path = server/src/networking/packet_data
+	url = git@github.com:cpp-toolbox/packet_data.git
+[submodule "server/src/utility/logger"]
+	path = server/src/utility/logger
+	url = git@github.com:cpp-toolbox/logger.git
+[submodule "server/src/utility/rate_limiter"]
+	path = server/src/utility/rate_limiter
+	url = git@github.com:cpp-toolbox/rate_limiter.git
+[submodule "client/src/utility/argument_parser"]
+	path = client/src/utility/argument_parser
+	url = git@github.com:cpp-toolbox/argument_parser.git
